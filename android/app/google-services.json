@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831203464993",
+    "project_id": "nady-fire",
+    "storage_bucket": "nady-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831203464993:android:0119d6c8c3619399b11060",
+        "android_client_info": {
+          "package_name": "com.example.nady_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831203464993-ghuoulqi85l09flr2usde8tgc59as1ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nady_fire",
+            "certificate_hash": "6f4d38d6ce8c6eceb1be924c89333c01439c2f07"
+          }
+        },
+        {
+          "client_id": "831203464993-b0vmkbj0dgsutaopuqaisr41uicjsave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIWxXcn09_gBVmiKZMbFOkGoEbNsfpxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831203464993-b0vmkbj0dgsutaopuqaisr41uicjsave.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
